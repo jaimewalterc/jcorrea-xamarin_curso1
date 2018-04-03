@@ -3,3 +3,11 @@
 ################################################################################
 
 /IT.Xamarin1/.vs/IT.Xamarin1/v15/Server/sqlite3/db.lock
+/.vs
+/IT.Xamarin1/.vs/IT.Xamarin1/v15
+/IT.Xamarin1/IT.Xamarin1/IT.Xamarin1/bin/Debug/netstandard2.0
+/IT.Xamarin1/IT.Xamarin1/IT.Xamarin1/obj
+/IT.Xamarin1/IT.Xamarin1/IT.Xamarin1.Android/bin/Debug
+/IT.Xamarin1/IT.Xamarin1/IT.Xamarin1.Android/obj
+/IT.Xamarin1/IT.Xamarin1/IT.Xamarin1.iOS/bin/iPhoneSimulator/Debug
+/IT.Xamarin1/IT.Xamarin1/IT.Xamarin1.iOS/obj
